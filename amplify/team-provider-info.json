@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tut-20190307184018-authRole",
+            "UnauthRoleArn": "arn:aws:iam::860754977578:role/amplify-tut-20190307184018-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::860754977578:role/amplify-tut-20190307184018-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-tut-20190307184018-deployment",
+            "UnauthRoleName": "amplify-tut-20190307184018-unauthRole",
+            "StackName": "amplify-tut-20190307184018",
+            "StackId": "arn:aws:cloudformation:us-west-2:860754977578:stack/amplify-tut-20190307184018/83448810-414b-11e9-ac67-0a6cf74fe974"
+        },
+        "categories": {
+            "auth": {
+                "cognitoeaa6c3e7": {}
+            }
+        }
+    }
+}
